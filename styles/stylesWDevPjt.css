@@ -1,0 +1,80 @@
+body {
+    color: rgba(223, 242, 242, 1);
+    background: linear-gradient(rgba(140, 119, 93, 1),rgba(38, 28, 16, 1));
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+body a{color:#C5D9D9;}
+
+.practiceBGimage{
+    background-image: url("../images/001\ 34.jpeg");
+    height: 200px;
+    width: 694px
+}
+
+.container{
+    /* border: 20px solid  #261C10; */
+    padding: 40px;
+}
+
+.leftside{
+    background:rgba(98, 115, 36, 1);
+    padding: 10px;
+    border: 5px solid rgba(38, 28, 16, 1);
+    margin: 20px;
+    width: 560px;
+    border-radius:30px;
+
+}
+
+.rightside{
+    color: rgba(140, 119, 93, 1);
+    background: rgba(197, 217, 217, 1);
+    padding: 10px;
+    border: 5px solid rgba(38, 28, 16, 1);
+    margin: 20px;
+    width: 560px;
+    border-radius:30px;
+    float: right
+}
+
+.center{
+
+}
+
+.containerforpicture{
+    
+}
+
+#footer{
+    bottom: 5px;
+    left: 0px;
+    right: 0px;
+    height: 35px;
+    font-size: 25px;
+    border: 1px solid #C5D9D9;
+    background:linear-gradient(#261C10,#8C775D);
+    color:#C5D9D9;
+    position: fixed;
+    text-align: center;
+    width: 10%;
+    margin: auto;
+    border-radius:50px;
+}
+
+#footer a{color:#C5D9D9;}
+
+
+/* Color Theme Swatches in Hex */
+.color-theme_001-37-1-hex { color: #C5D9D9; }
+.color-theme_001-37-2-hex { color: #DFF2F2; }
+.color-theme_001-37-3-hex { color: #627324; }
+.color-theme_001-37-4-hex { color: #261C10; }
+.color-theme_001-37-5-hex { color: #8C775D; }
+
+/* Color Theme Swatches in RGBA */
+.color-theme_001-37-1-rgba { color: rgba(197, 217, 217, 1); }
+.color-theme_001-37-2-rgba { color: rgba(223, 242, 242, 1); }
+.color-theme_001-37-3-rgba { color: rgba(98, 115, 36, 1); }
+.color-theme_001-37-4-rgba { color: rgba(38, 28, 16, 1); }
+.color-theme_001-37-5-rgba { color: rgba(140, 119, 93, 1); }
